@@ -35,7 +35,8 @@ PRODUCT_PACKAGES += \
 
 # Ramdisk
 PRODUCT_PACKAGES += \
-    init.sakura.rc
+    init.sakura.rc \
+    init.goodix.sh
 
 # Sensors
 PRODUCT_COPY_FILES += \
