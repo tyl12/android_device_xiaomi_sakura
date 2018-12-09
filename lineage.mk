@@ -28,4 +28,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="sakura-user 8.1.0 OPM1.171019.019 V10.0.5.0.ODICNFH release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "xiaomi/sakura/sakura:8.1.0/OPM1.171019.019/V10.0.5.0.ODICNFH:user/release-keys"
+BUILD_FINGERPRINT := xiaomi/sakura/sakura:8.1.0/OPM1.171019.019/V10.0.5.0.ODICNFH:user/release-keys
