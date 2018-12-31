@@ -26,5 +26,5 @@ TARGET_VENDOR := Xiaomi
 PRODUCT_DEVICE := sakura
 PRODUCT_NAME := full_sakura
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi 5 Plus
+PRODUCT_MODEL := Redmi 6 Pro
 PRODUCT_MANUFACTURER := Xiaomi
