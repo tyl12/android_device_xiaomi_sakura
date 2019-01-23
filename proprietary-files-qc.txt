@@ -183,10 +183,6 @@ vendor/lib/libwvhidl.so|8e6513b7e2ad780ced0f55909911e76ab6a7ae49
 vendor/bin/fm_qsoc_patches|77f31379d6bf68f2f0b3aa8936150b778c4e89ee
 vendor/lib64/vendor.qti.hardware.fm@1.0.so|dc576dfcb0bf390a106b5ed8861e7f547110cbf1
 
-# Gatekeeper - from Tissot PKQ1.180917.001/V10.0.2.0.PDHMIFK
-vendor/lib/hw/gatekeeper.msm8953.so|fb3693904e3b26250157ab5be21ef977971a3382
-vendor/lib64/hw/gatekeeper.msm8953.so|c1b386547234815a0d6116b5e4756de66075cd3f
-
 # GPS - from Tissot PKQ1.180917.001 V10.0.2.0.PDHMIFK
 etc/permissions/com.qti.location.sdk.xml|cb68a566bd77dcc75bb7547199d528289fac01cb
 etc/permissions/com.qualcomm.location.xml|78b2c4d3f4d053f7d7b3e27a60a8d9e65ac583c3
@@ -336,10 +332,6 @@ vendor/firmware/a530_pm4.fw|5741a28752355b478d455635bab008028ff7e1c6
 
 # Ipacm - from Tissot PKQ1.180917.001/V10.0.2.0.PDHMIFK
 vendor/bin/ipacm-diag|9300f8da22941c2bfacc2ff96f83f2beebd4dcc1
-
-# Keystore - from Tissot PKQ1.180917.001/V10.0.2.0.PDHMIFK
-vendor/lib/hw/keystore.msm8953.so|fdfa414efe6205bfd7750726ae730e4bd3c1ba00
-vendor/lib64/hw/keystore.msm8953.so|f71f1439c9c356ce05d88b876253b4e3dcb10f4b
 
 # Listen - from Tissot PKQ1.180917.001/V10.0.2.0.PDHMIFK
 vendor/lib/hw/sound_trigger.primary.msm8953.so|0e716aae6fe6fc4a8b9553953765f64614647e7d
