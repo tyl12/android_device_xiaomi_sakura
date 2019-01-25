@@ -20,7 +20,7 @@ set -e
 
 # Required!
 export DEVICE=sakura
-export DEVICE_COMMON=msm8953-common
+export DEVICE_COMMON=sakura-common
 export VENDOR=xiaomi
 
 INITIAL_COPYRIGHT_YEAR=2018

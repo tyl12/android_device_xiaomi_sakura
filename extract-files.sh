@@ -19,7 +19,7 @@
 set -e
 
 DEVICE=sakura
-DEVICE_COMMON=msm8953-common
+DEVICE_COMMON=sakura-common
 VENDOR=xiaomi
 
 export DEVICE_BRINGUP_YEAR=2018
